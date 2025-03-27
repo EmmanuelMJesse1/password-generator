@@ -1,6 +1,4 @@
-## **README.md for Secure Password Generator**  
 
----
 
 # 🔒 Secure Password Generator  
 A **user-friendly and secure** password generator that helps you create strong, industry-standard passwords with ease. Built with **PHP, JavaScript, HTML, and CSS**, this tool ensures high security and a responsive design.
